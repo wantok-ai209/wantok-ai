@@ -1,0 +1,9 @@
+{
+  "name": "wantok-ai-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wantok AI - Solomon Islands tourism communication companion",
+  "dependencies": {
+    "openai": "^6.0.0"
+  }
+}
